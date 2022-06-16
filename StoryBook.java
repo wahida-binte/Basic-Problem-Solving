@@ -17,14 +17,8 @@ public class StoryBook
 	public StoryBook(String isbn, String bookTitle, String authorName, double price, int availableQuantity, 
     String category)
 	{
-		System.out.println("\nParameterized StoryBook Called");
+		System.out.println(".....Book Details.....");
 		
-		/*this.isbn=isbn;
-		this.bookTitle=bookTitle;
-		this.authorName=authorName;
-		this.price=price;
-		this.availableQuantity=availableQuantity;
-		this.category=category;*/
 	}
 		
 		
